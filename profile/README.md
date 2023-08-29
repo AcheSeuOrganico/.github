@@ -10,7 +10,7 @@ Os projetos foram desenvolvidos majoritariamente nas disciplinas de Projeto Inte
 
  - [Alexandre Allegreti](https://github.com/Allegretti21)
  - [André de Queiroz Patrinicola](https://github.com/AndredeQueirozPatrinicola)
- - [Arthur Rocumback]()
+ - [Arthur Rocumback](https://github.com/ArthurRocumback)
  - [Felipe de Souza](https://github.com/Fsouza2810)
 
 ## Tecnologias 
